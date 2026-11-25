@@ -888,7 +888,7 @@ blockquote cite {
 }
 
 .edgtf-preload-background {
-  background: transparent url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/preload_pattern.png") repeat scroll inherit !important;
+  background: transparent url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/preload_pattern.png") repeat scroll inherit !important;
   -webkit-animation-name: preload-background;
   animation-name: preload-background;
   -webkit-animation-duration: 40s;
@@ -7001,8 +7001,8 @@ footer .widget .edgtf-searchform .input-holder button {
   -webkit-transition: color .2s ease-in-out;
   transition: color .2s ease-in-out;
   right: -9px;
-  cursor: url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.cur"), auto;
-  cursor: url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.png") 11 11, url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.svg") 11 11, auto;
+  cursor: url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.cur"), auto;
+  cursor: url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.png") 11 11, url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.svg") 11 11, auto;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -7411,8 +7411,8 @@ footer .widget.widget_custom_html .edgtf-custom-widget-text p:first-child {
   -webkit-transition: color .2s ease-in-out;
   transition: color .2s ease-in-out;
   right: -9px;
-  cursor: url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.cur"), auto;
-  cursor: url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.png") 11 11, url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.svg") 11 11, auto;
+  cursor: url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.cur"), auto;
+  cursor: url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.png") 11 11, url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.svg") 11 11, auto;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -7837,8 +7837,8 @@ footer .widget.widget_custom_html .edgtf-custom-widget-text p:first-child {
   -webkit-transition: color .2s ease-in-out;
   transition: color .2s ease-in-out;
   right: -9px;
-  cursor: url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.cur"), auto;
-  cursor: url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.png") 11 11, url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.svg") 11 11, auto;
+  cursor: url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.cur"), auto;
+  cursor: url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.png") 11 11, url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.svg") 11 11, auto;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -8319,8 +8319,8 @@ aside.edgtf-sidebar .widget .edgtf-searchform .input-holder button,
   -webkit-transition: color .2s ease-in-out;
   transition: color .2s ease-in-out;
   right: -9px;
-  cursor: url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.cur"), auto;
-  cursor: url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.png") 11 11, url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.svg") 11 11, auto;
+  cursor: url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.cur"), auto;
+  cursor: url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.png") 11 11, url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-active.svg") 11 11, auto;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -13769,7 +13769,7 @@ aside.edgtf-sidebar .widget_icl_lang_sel_widget .wpml-ls-legacy-dropdown-click,
 
 .edgtf-blog-holder article.format-quote .edgtf-post-mark .edgtf-quote-mark {
   display: block;
-  background: url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/quote-post.png") no-repeat;
+  background: url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/quote-post.png") no-repeat;
   width: 40px;
   height: 32px;
 }
@@ -19786,8 +19786,8 @@ body.edgtf-header-minimal .edgtf-mobile-header {
 }
 
 body:not(.edgtf-theme-cursor) .edgtf-fullscreen-search-holder {
-  cursor: url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/close.cur"), auto;
-  cursor: url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/close.png") 23 23, url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/close.svg") 23 23, auto;
+  cursor: url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/close.cur"), auto;
+  cursor: url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/close.png") 23 23, url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/close.svg") 23 23, auto;
 }
 
 .edgtf-fullscreen-search-holder .edgtf-fullscreen-search-table {
@@ -25231,7 +25231,7 @@ body:not(.edgtf-theme-cursor) .edgtf-pl-follow-info-holder {
   float: left;
   width: 293px;
   height: 293px;
-  background-image: url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/quote.png");
+  background-image: url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/quote.png");
   background-position: center center;
   background-repeat: no-repeat;
 }
@@ -27703,7 +27703,7 @@ body.edgtf-buttons-leftalign .edgtf-btn.edgtf-btn-outline {
 }
 
 .edgtf-image-gallery.edgtf-image-behavior-grayscale .edgtf-ig-image img {
-  filter: url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/plugins/manon-core/assets/css/img/desaturate.svg#grayscale");
+  filter: url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/plugins/manon-core/assets/css/img/desaturate.svg#grayscale");
   -webkit-filter: grayscale(100%);
   -moz-filter: grayscale(100%);
   filter: gray;
@@ -27784,8 +27784,8 @@ body.edgtf-buttons-leftalign .edgtf-btn.edgtf-btn-outline {
 }
 
 .edgtf-image-with-text-holder.edgtf-image-behavior-custom-link .edgtf-iwt-image a {
-  cursor: url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-eye.cur"), auto;
-  cursor: url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-eye.png") 23 23, url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-eye.svg") 23 23, auto;
+  cursor: url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-eye.cur"), auto;
+  cursor: url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-eye.png") 23 23, url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/themes/manon/assets/img/cursor-eye.svg") 23 23, auto;
 }
 
 .edgtf-image-with-text-holder.edgtf-image-behavior-two-links-overlay .edgtf-iwt-image {
@@ -27938,7 +27938,7 @@ body.edgtf-buttons-leftalign .edgtf-btn.edgtf-btn-outline {
 }
 
 .edgtf-image-with-text-holder.edgtf-image-behavior-grayscale .edgtf-iwt-image img {
-  filter: url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/plugins/manon-core/assets/css/img/desaturate.svg#grayscale");
+  filter: url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/plugins/manon-core/assets/css/img/desaturate.svg#grayscale");
   -webkit-filter: grayscale(100%);
   -moz-filter: grayscale(100%);
   filter: gray;
@@ -28917,7 +28917,7 @@ body.edgtf-buttons-leftalign .edgtf-btn.edgtf-btn-outline {
 }
 
 .edgtf-single-image-holder.edgtf-image-behavior-grayscale .edgtf-si-inner img {
-  filter: url("/portfolio-website-fc.sowmika206.workers.dev/wp-content/plugins/manon-core/assets/css/img/desaturate.svg#grayscale");
+  filter: url("https://portfolio-website-fc.sowmika206.workers.dev/wp-content/plugins/manon-core/assets/css/img/desaturate.svg#grayscale");
   -webkit-filter: grayscale(100%);
   -moz-filter: grayscale(100%);
   filter: gray;
